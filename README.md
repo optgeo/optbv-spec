@@ -7,6 +7,8 @@ optbv specifications, translated for friends from [@gsi-cyberjapan/optimal_bvmap
 <dd>https://maps.gsi.go.jp/xyz/experimental_bvmap-v1/{z}/{x}/{y}.pbf</dd>
 <dt>default style.json</dt>
 <dd>https://gsi-cyberjapan.github.io/optimal_bvmap/style/std.json</dd>
+<dt>skeleton style.json</dt>
+<dd>https://gsi-cyberjapan.github.io/optimal_bvmap/style/skeleton.json</dd>
 <dt>minzoom</dt>
 <dd>4</dd>
 <dt>maxzoom</dt>
