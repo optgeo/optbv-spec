@@ -157,3 +157,6 @@ optbv specifications, translated for friends from [@gsi-cyberjapan/optimal_bvmap
 </dl>
 
 # attribute specifications
+
+# Information source
+[電子国土基本図 地図情報 ファイル仕様書 第1.1版](https://www.gsi.go.jp/common/000189294.pdf)
