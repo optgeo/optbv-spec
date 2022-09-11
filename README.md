@@ -33,127 +33,139 @@ optbv specifications, translated for friends from [@gsi-cyberjapan/optimal_bvmap
 ## AdmBdry
 <dl>
 <dt>meaning</dt><dd>administrative boundary</dd>
-<dt>ja</dt><dd></dd>
+<dt>ja</dt><dd>行政区画界線</dd>
 </dl>
 
-## RdEdg: road edge
+## RdEdg
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>road edge</dd>
+<dt>ja</dt><dd>道路縁</dd>
 </dl>
 
-## RdCompt: road compornent
+## RdCompt
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>road component</dd>
+<dt>ja</dt><dd>道路構成線</dd>
 </dl>
 
-## RdCL: road center line
+## RdCL
 <dl>
-<dt>meaning</dt><dd></dd>
+<dt>meaning</dt><dd>road centerline</dd>
 <dt>ja</dt><dd></dd>
 </dl>
 
 ## RailTrCL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>railroad track centerline</dd>
+<dt>ja</dt><dd>軌道の中心線</dd>
 </dl>
 
-## BldA: building area
+## BldA
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>building area</dd>
+<dt>ja</dt><dd>建築物</dd>
 </dl>
 
-## StrctLine: structure line
+## BldL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>building outline<dd>
+<dt>ja</dt><dd>建築物の外周線</dd>
 </dl>
 
-## StrctArea: structure area
+## StrctLine
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>structural line</dd>
+<dt>ja</dt><dd>構造物線</dd>
 </dl>
 
-## WA: water area
+## StrctArea
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>structural area</dd>
+<dt>ja</dt><dd>構造物面</dd>
 </dl>
 
-## Cstline: coastline
+## WA
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>water area</dd>
+<dt>ja</dt><dd>水域</dd>
 </dl>
 
-## WL: water line
+## Cstline
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>coastline</dd>
+<dt>ja</dt><dd>海岸線</dd>
 </dl>
 
-## RvrCL: river center line
+## WL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>water line</dd>
+<dt>ja</dt><dd>水涯線</dd>
 </dl>
 
-## WStrL: water structure line
+## RvrCL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>river centerline</dd>
+<dt>ja</dt><dd>河川中心線</dd>
+</dl>
+
+## WStrL
+<dl>
+<dt>meaning</dt><dd>waterside structure line</dd>
+<dt>ja</dt><dd>水部構造物線</dd>
 </dl>
 
 ## WRltLine
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>water related line</dd>
+<dt>ja</dt><dd>水部表記線</dd>
 </dl>
 
-## SpcfArea: specific area
+## SpcfArea
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>specific area</dd>
+<dt>ja</dt><dd>特定地区界</dd>
 </dl>
 
-## Cntr: contour
+## Cntr
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>contour</dd>
+<dt>ja</dt><dd>等高線</dd>
 </dl>
 
 ## Isbt
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>isobath</dd>
+<dt>ja</dt><dd>等深線</dd>
 </dl>
 
 ## TpgphArea
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>topographical representative area</dd>
+<dt>ja</dt><dd>地形表記面</dd>
 </dl>
 
 ## TpgphLine
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>topographical representative line</dd>
+<dt>ja</dt><dd>地形表記線</dd>
 </dl>
 
-## RailCL: rail center line
+## RailCL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>railroad centerline</dd>
+<dt>ja</dt><dd>鉄道中心線</dd>
 </dl>
 
-## PwrTrnsmL: power transmission line
+## PwrTrnsmL
 <dl>
-<dt>meaning</dt><dd></dd>
-<dt>ja</dt><dd></dd>
+<dt>meaning</dt><dd>power transmission line</dd>
+<dt>ja</dt><dd>送電線</dd>
+</dl>
+
+## Anno
+<dl>
+<dt>meaning</dt><dd>annotation</dd>
+<dt>ja</dt><dd>注記</dd>
 </dl>
 
 # attribute specifications
